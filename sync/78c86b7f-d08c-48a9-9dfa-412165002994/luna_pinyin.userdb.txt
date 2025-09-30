@@ -1,0 +1,247 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.13.0
+#@/tick	618
+#@/user_id	78c86b7f-d08c-48a9-9dfa-412165002994
+ai fa 	爱发	c=0 d=0.194176 t=598
+ai fa den 	爱发扽	c=1 d=1 t=587
+ai fa sai fu 	爱发赛富	c=1 d=1 t=599
+bao cun 	保存	c=1 d=1 t=176
+bao zheng 	保证	c=1 d=1 t=138
+bi jiao hao 	比较好	c=1 d=1 t=606
+bian hua 	变化	c=1 d=1 t=144
+bian ma 	编码	c=1 d=1 t=70
+biao 	表	c=1 d=1 t=420
+bu hui 	不会	c=2 d=1.91393 t=170
+bu zai 	不再	c=1 d=1 t=76
+cai neng 	才能	c=1 d=1 t=63
+cai yong 	采用	c=1 d=1 t=114
+can shu 	参数	c=1 d=1 t=317
+cao zuo 	操作	c=1 d=1 t=429
+ce shi 	测试	c=5 d=3.58836 t=617
+ce shi yi xia 	测试一下	c=1 d=1 t=6
+ceng 	层	c=14 d=8.71829 t=457
+cha ru 	插入	c=2 d=1.91393 t=121
+cha yi 	差异	c=1 d=1 t=196
+chang yong 	常用	c=1 d=1 t=466
+che xiao 	撤销	c=1 d=1 t=276
+cheng 	成	c=2 d=1.91851 t=65
+cheng 	称	c=1 d=1 t=398
+cheng gong 	成功	c=1 d=1 t=232
+chi jiu hua 	持久化	c=9 d=6.62451 t=448
+chong xian 	重现	c=1 d=1 t=167
+chu cuo 	出错	c=2 d=1.74453 t=185
+chuan chu 	传出	c=1 d=1 t=315
+chuan ru 	传入	c=1 d=1 t=313
+cuo luan 	错乱	c=1 d=1 t=109
+dai ma 	代码	c=11 d=8.15004 t=497
+dai ti 	代替	c=1 d=1 t=202
+dao 	到	c=5 d=2.35525 t=544
+de 	的	c=55 d=16.9031 t=612
+den 	扽	c=0 d=0.1 t=586
+deng 	等	c=1 d=1 t=517
+deng lu 	登录	c=3 d=2.90398 t=231
+diao yong 	调用	c=2 d=1.52729 t=349
+ding yi 	定义	c=5 d=3.53776 t=422
+du li 	独立	c=1 d=1 t=345
+dui 	对	c=1 d=1 t=479
+dui wai 	对外	c=2 d=1.46767 t=453
+dui xiang 	对象	c=3 d=2.59545 t=331
+dui ying 	对应	c=3 d=2.16604 t=432
+fa 	法	c=2 d=1.97045 t=584
+fa sheng 	发生	c=1 d=1 t=143
+fan hui zhi 	返回值	c=1 d=1 t=234
+fang fa 	方法	c=2 d=1.3588 t=224
+fen pei 	分配	c=2 d=1.84789 t=162
+fen xi 	分析	c=2 d=1.6942 t=83
+feng ge 	风格	c=2 d=1.16203 t=409
+feng pei 	奉陪	c=2 d=1.84789 t=161
+feng xi 	缝隙	c=1 d=1 t=9
+fu he 	符合	c=1 d=1 t=485
+fu wu 	服务	c=11 d=7.36975 t=445
+fu zhi 	赋值	c=1 d=1 t=118
+gai bian 	改变	c=1 d=1 t=171
+gai cheng 	改成	c=2 d=1.80654 t=616
+gai shu 	概述	c=1 d=1 t=477
+ge shi hua 	格式化	c=2 d=1.96561 t=476
+ge zhong 	各种	c=2 d=1.97531 t=361
+gei 	给	c=1 d=1 t=116
+gong ju 	工具	c=4 d=2.12668 t=254
+gong zuo 	工作	c=1 d=1 t=39
+gui fan 	规范	c=1 d=1 t=488
+gui ze 	规则	c=5 d=2.44523 t=465
+guo cheng zhong 	过程中	c=1 d=1 t=611
+hang 	行	c=1 d=1 t=516
+hao ma 	号码	c=1 d=1 t=91
+he 	和	c=7 d=2.32058 t=555
+heng pai 	横排	c=1 d=1 t=614
+hou 	后	c=3 d=1.39379 t=520
+hou xuan zi 	候选字	c=1 d=1 t=613
+hu xiang 	互相	c=2 d=1.51944 t=332
+huan 	换	c=1 d=1 t=515
+hui 	会	c=3 d=2.42839 t=184
+huo qu 	获取	c=1 d=1 t=20
+huo zhe 	或者	c=1 d=1 t=146
+ji shi 	即使	c=1 d=1 t=166
+ji zhu 	记住	c=1 d=1 t=159
+jia gou 	架构	c=1 d=1 t=263
+jian 	键	c=2 d=1.89137 t=595
+jian cha 	检查	c=2 d=1.8825 t=507
+jian dan 	简单	c=1 d=1 t=31
+jian shao 	减少	c=1 d=1 t=147
+jiang 	将	c=2 d=1.25411 t=569
+jie gou 	结构	c=1 d=1 t=407
+jie kou 	接口	c=7 d=4.50237 t=454
+jie shi 	解释	c=1 d=1 t=94
+jiu shi 	就是	c=2 d=1.16122 t=608
+ju ge 	举个	c=1 d=1 t=29
+ju ti 	具体	c=1 d=1 t=504
+kai fa 	开发	c=4 d=2.12668 t=253
+kan 	看	c=1 d=1 t=483
+ke yi 	可以	c=4 d=1.65556 t=536
+kong ge 	空格	c=1 d=1 t=514
+ku 	库	c=1 d=1 t=418
+kuai jie jian 	快捷键	c=3 d=2.94099 t=543
+lai 	来	c=1 d=1 t=115
+le 	了	c=1 d=1 t=82
+lei 	类	c=4 d=2.45156 t=372
+lei xing 	类型	c=4 d=2.40906 t=318
+li 	里	c=18 d=6.83373 t=589
+li mian 	里面	c=2 d=1.99005 t=238
+li zi 	例子	c=2 d=1.09442 t=502
+ling yu 	领域	c=10 d=7.29014 t=444
+lu jing 	路径	c=9 d=5.19216 t=512
+lu you 	路由	c=2 d=1.43605 t=435
+luo ji 	逻辑	c=2 d=1.99005 t=342
+me 	么	c=6 d=1.66638 t=546
+mei ju 	枚举	c=6 d=4.82224 t=188
+mei ju zhi 	枚举值	c=3 d=2.66628 t=174
+mian 	面	c=1 d=1 t=240
+ming cheng 	名称	c=2 d=1.75578 t=442
+ming ling 	命令	c=1 d=1 t=467
+ming ming 	命名	c=6 d=5.10283 t=460
+mo ren 	默认	c=1 d=1 t=580
+mo xing 	模型	c=3 d=2.77035 t=414
+mou ge 	某个	c=2 d=1.9802 t=542
+mu lu 	目录	c=3 d=1.93003 t=472
+na li 	哪里	c=2 d=1.57695 t=199
+na xie 	那些	c=2 d=1.0599 t=604
+ne 	呢	c=1 d=1 t=40
+neng 	能	c=1 d=1 t=137
+ni shi 	你是	c=1 d=1 t=526
+ni shi shui 	你是谁	c=1 d=1 t=525
+pei zhi 	配置	c=2 d=1.19593 t=591
+ping guo 	苹果	c=1 d=1 t=570
+qi ye 	企业	c=2 d=1.92312 t=227
+qie huan 	切换	c=2 d=1.71892 t=598
+qu bie 	区别	c=1 d=1 t=562
+qu diao 	去掉	c=1 d=1 t=594
+ran hou 	然后	c=1 d=1 t=499
+ren zheng 	认证	c=3 d=2.79311 t=244
+ru guo 	如果	c=3 d=2.44652 t=175
+ru he 	如何	c=3 d=2.57823 t=256
+ru xia 	如下	c=1 d=1 t=592
+sai fu 	赛富	c=0 d=0.1 t=598
+shang mian 	上面	c=1 d=1 t=552
+shang shu 	上述	c=1 d=1 t=277
+she zhi 	设置	c=6 d=3.9479 t=559
+shen me 	什么	c=11 d=2.51035 t=561
+sheng cheng 	生成	c=1 d=1 t=172
+shi 	是	c=11 d=5.07691 t=387
+shi bu shi 	是不是	c=1 d=1 t=75
+shi fou 	是否	c=3 d=1.18372 t=484
+shi ti 	实体	c=1 d=1 t=393
+shi xian 	实现	c=4 d=2.36417 t=449
+shi yong 	使用	c=1 d=1 t=183
+shou xian 	首先	c=1 d=1 t=492
+shu 	树	c=1 d=1 t=60
+shu ju 	数据	c=5 d=2.66088 t=427
+shu liang 	数量	c=1 d=1 t=142
+shu pai 	竖排	c=1 d=1 t=615
+shu ru 	输入	c=4 d=2.76992 t=610
+shu ru fa 	输入法	c=2 d=1.69768 t=605
+shu xing 	属性	c=1 d=1 t=242
+shuang pin 	双拼	c=1 d=1 t=575
+shui 	谁	c=1 d=1 t=527
+ta 	它	c=1 d=1 t=222
+ti gong 	提供	c=7 d=4.5738 t=461
+tian jia 	添加	c=4 d=3.56314 t=257
+tong guo 	通过	c=1 d=1 t=245
+tong yi 	统一	c=1 d=1 t=271
+tong yong 	通用	c=1 d=1 t=362
+tuan dui 	团队	c=1 d=1 t=486
+wan cheng 	完成	c=1 d=1 t=37
+wei 	为	c=6 d=3.46172 t=550
+wei shen me 	为什么	c=1 d=1 t=136
+wei shi yong 	未使用	c=1 d=1 t=521
+wei xian 	危险	c=1 d=1 t=226
+wei xin 	微信	c=1 d=1 t=228
+wen jian 	文件	c=10 d=6.216 t=459
+wen ti 	问题	c=1 d=1 t=518
+xi tong 	系统	c=1 d=1 t=264
+xia 	下	c=2 d=1.1764 t=426
+xia ci 	下次	c=1 d=1 t=181
+xia mian 	下面	c=1 d=1 t=474
+xiang mu 	项目	c=11 d=5.41228 t=511
+xiang ying 	响应	c=1 d=1 t=363
+xiao he 	小鹤	c=1 d=1 t=574
+xin 	信	c=1 d=1 t=212
+xin 	新	c=4 d=3.44915 t=219
+xiu fu 	修复	c=1 d=1 t=513
+xiu gai 	修改	c=2 d=1.29376 t=523
+xu qiu 	需求	c=1 d=1 t=206
+xu yao 	需要	c=4 d=1.83413 t=593
+yang 	样	c=1 d=1 t=62
+yao 	要	c=1 d=1 t=506
+ye 	也	c=1 d=1 t=169
+ye wu 	业务	c=3 d=2.2143 t=341
+yi dong 	易懂	c=1 d=1 t=33
+yi dong 	移动	c=1 d=1 t=32
+yi ge 	一个	c=4 d=3.13554 t=218
+yi jing 	已经	c=1 d=1 t=160
+yi xia 	一下	c=7 d=1.88985 t=618
+yi xia 	以下	c=2 d=1.78663 t=557
+yi xie 	一些	c=5 d=3.86845 t=601
+yi yang 	一样	c=2 d=1.91851 t=69
+yi zhong 	一种	c=1 d=1 t=609
+ying she 	映射	c=1 d=1 t=415
+ying wen 	英文	c=2 d=1.97045 t=551
+ying xiang 	影响	c=1 d=1 t=153
+ying yong 	应用	c=5 d=3.11801 t=439
+yong 	用	c=1 d=1 t=530
+yong hu 	用户	c=1 d=1 t=204
+yong yu 	用于	c=1 d=1 t=478
+you 	有	c=2 d=1.80654 t=603
+you ge 	有个	c=1 d=1 t=241
+yuan li 	原理	c=2 d=1.74082 t=133
+yue ding 	约定	c=1 d=1 t=267
+yun xing 	运行	c=2 d=1.19014 t=500
+zai 	再	c=2 d=1.92774 t=197
+zai 	在	c=6 d=3.05564 t=588
+zen me 	怎么	c=1 d=1 t=61
+zeng jia 	增加	c=1 d=1 t=145
+zhao dao 	找到	c=2 d=1.88692 t=494
+zhe zhong 	这种	c=1 d=1 t=111
+zheng he 	整合	c=1 d=1 t=348
+zhi 	值	c=4 d=3.13268 t=165
+zhi ding 	指定	c=1 d=1 t=537
+zhi hou 	之后	c=1 d=1 t=74
+zhi jie 	直接	c=1 d=1 t=519
+zhi xing 	执行	c=2 d=1.10807 t=473
+zhi you 	只有	c=1 d=1 t=581
+zhong 	中	c=1 d=1 t=179
+zhong jian 	中间	c=2 d=1.91393 t=120
+zhong wen 	中文	c=10 d=7.869 t=607
+zhong wen ce shi 	中文测试	c=1 d=1 t=568
+zhong wen shu ru 	中文输入	c=1 d=1 t=7
+zhong ying wen 	中英文	c=1 d=1 t=597
+zhu yao 	主要	c=4 d=3.32975 t=346
+zhuan huan 	转换	c=1 d=1 t=333
+zhuang pei 	装配	c=2 d=1.99501 t=456
+zi duan 	字段	c=1 d=1 t=191
+zi fu chuan 	字符串	c=1 d=1 t=193
+zong jie 	总结	c=1 d=1 t=87
+zuo 	做	c=3 d=2.3418 t=524
+zuo bian 	左边	c=2 d=1.93239 t=57
+zuo yong 	作用	c=7 d=4.45182 t=319

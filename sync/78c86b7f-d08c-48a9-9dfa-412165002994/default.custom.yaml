@@ -1,0 +1,18 @@
+patch:
+  "menu/page_size": 9
+  schema_list:
+    # - { schema: luna_pinyin }
+    - { schema: double_pinyin_flypy }
+    #- { schema: luna_pinyin_simp }
+
+  "switcher/hotkeys": # 这个列表里每项定义一个快捷键，使哪个都中
+    #- "Control+s"     # 添加 Ctrl+s
+    - "Control+grave" # 你看写法并不是 Ctrl+` 而是与 IBus 一致的表示法
+    - "Control+F3"
+
+  # 添加候选字横排配置
+  menu:
+    # 候选词排列方向：horizontal 为横排，vertical 为竖排
+    orientation: horizontal
+    # 可选：设置每行显示的候选词数量（默认通常为 5-6 个，可按需调整）
+    page_size: 6
