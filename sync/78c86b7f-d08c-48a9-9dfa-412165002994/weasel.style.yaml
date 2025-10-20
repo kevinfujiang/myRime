@@ -17,8 +17,8 @@ style:
   vertical_auto_reverse: false # 竖排下，输入窗口在上方时倒序排列：true；false
 
 preset_color_schemes:
-# 小狼毫配色在线设计：
-# [RIME 西米](https://fxliang.github.io/RimeSeeMe/)
+  # 小狼毫配色在线设计：
+  # [RIME 西米](https://fxliang.github.io/RimeSeeMe/)
   gruvbox:
     name: 扶风 / Gruvbox
     author: ASC_8384 <ASC_8384@foxmail.com>
@@ -31,21 +31,20 @@ preset_color_schemes:
     hilited_candidate_back_color: 0x454950
     candidate_text_color: 0xB2DBEB
     comment_text_color: 0x748392
-
-app_options:
-  Code.exe:
-    ascii_mode: true # 默认使用英文输入
-  gvim.exe:
-    ascii_mode: true
-  cmder.exe:
-    ascii_mode: true
-  conemu64.exe: # cmder 真身
-    ascii_mode: true
-  cmd.exe:
-    ascii_mode: true
-  bash.exe:
-    ascii_mode: true
-  powershell.exe:
-    ascii_mode: true
-  WindowsTerminal.exe:
-    ascii_mode: true
+# app_options:
+# Code.exe:
+#   ascii_mode: true # 默认使用英文输入
+# gvim.exe:
+#   ascii_mode: true
+# cmder.exe:
+#   ascii_mode: true
+# conemu64.exe: # cmder 真身
+#   ascii_mode: true
+# cmd.exe:
+#   ascii_mode: true
+# bash.exe:
+#   ascii_mode: true
+# powershell.exe:
+#   ascii_mode: true
+# WindowsTerminal.exe:
+#   ascii_mode: true
